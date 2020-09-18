@@ -1,16 +1,10 @@
-# flutter_firebase_blog_app
+# Flutter_blog_app
 
-A new Flutter project.
+- Flutter UI 연습 메인, 글작성 페이지
+- 파이어베이스 연동 (스토리지, 데이터베이스) 
 
-## Getting Started
+## 미리보기 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+메인화면           |  상세 화면
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/50859352/93613606-0d6cb100-fa0c-11ea-8432-967ac1ef163b.png" width="300">  |  <img src="https://user-images.githubusercontent.com/50859352/93613622-13629200-fa0c-11ea-8809-5141f97a7c28.png" width="300">
