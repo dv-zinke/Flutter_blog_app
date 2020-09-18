@@ -103,7 +103,7 @@ class _CreateBlogState extends State<CreateBlog> {
                       child: selectedImage != null
                           ? Container(
                               padding: EdgeInsets.symmetric(horizontal: 16),
-                              height: 150,
+                              height: 170,
                               child: ClipRRect(
                                   borderRadius: BorderRadius.circular(6),
                                   child: Image.file(
